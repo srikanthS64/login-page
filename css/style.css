@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(/css/1.jpg);
+    background-position: center;
+    background-size: cover;
+    width: auto;
+    height: 100vh;
+}
+h2{
+    color:black;
+    text-align: center;
+}
+.container{
+    top: 40%;
+    left: 35%;
+    position: absolute;
+}
+.card{
+    padding: 60px 40px 50px 40px;
+    background:LightGray ;
+    border-radius: 20px;
+}
+input{
+    padding: 6px;
+    margin: 15px;
+    border: none;
+}
+button{
+   padding: 5px;
+   margin-top: 30px;
+   margin-left: 70px;
+   width: 60px;
+   border: none;
+   border-radius: 5px;
+}
+img{
+    width: 200px;
+    
+}
+button:hover{
+    color: black;
+
+}
