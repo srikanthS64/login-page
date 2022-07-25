@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body{
-    background-image: url(/css/1.jpg);
+    background-image: url(./css/1.jpg);
     background-position: center;
     background-size: cover;
     width: auto;
